@@ -1,8 +1,6 @@
 # LLMs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This will be a repo of each personal LLM project.
   
 ## Description
 This repo will store each of personal LLM projects.
