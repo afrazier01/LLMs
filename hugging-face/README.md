@@ -1,2 +1,2 @@
 # Description
-I will try to implement a pre-trained hugging face LLM.
+I will implement a pre-trained hugging face LLM.
