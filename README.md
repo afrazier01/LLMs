@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description
-This repo will store each of personal LLM projects.
+This repo will store each of my personal LLM projects.
 
 ## Credits
 This repository was motivated and informed by the knowledge and insights shared by Talebi S. on their YouTube-Blog repository. 
