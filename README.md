@@ -6,7 +6,7 @@
 This repo will store each of my personal LLM projects.
 
 ## Credits
-This repository was motivated and informed by the knowledge and insights shared by Talebi S. on their YouTube-Blog repository. 
+This repository was motivated and informed by the knowledge and insights shared by Talebi S. on his YouTube-Blog repository. 
 
 If you find value in this work and would like to share or repurpose it, please use the following citation for Talebi's original repository:  
 
