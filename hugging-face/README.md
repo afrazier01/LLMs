@@ -1,2 +1,2 @@
 # Description
-I will implement a pre-trained hugging face LLM.
+I will explore the Hugging Face Transformers library and apply a Tranformer for a simply custom chatbot UI (using Gradio).
