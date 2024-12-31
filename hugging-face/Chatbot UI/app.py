@@ -15,7 +15,7 @@ def simply_chatbot(message, history):
     return conversation.generated_responses[-1] #return the last generated response
 
 demo_chatbot=gradio.ChatInterface(simply_chatbot, # pass chatbot object
-                                  title="Simply-Chatbot",
+                                  title="Simple-Chatbot",
                                   description="Enter text to begin chatting!")
 
 demo_chatbot.launch()
