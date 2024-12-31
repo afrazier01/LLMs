@@ -6,4 +6,4 @@ I will explore the Hugging Face library and apply a Tranformer for a simply cust
 ## Usage
 Click [Here](https://huggingface.co/spaces/amfrazier01/simple-chatbot) to go to the deployed webpage on Hugging Face spaces. 
 
-![Screenshot of deployed website](./Chatbot-UI/chatbot.png)
+![Screenshot of deployed website](./chatbot-ui/chatbot.png)
