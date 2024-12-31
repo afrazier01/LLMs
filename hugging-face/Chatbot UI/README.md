@@ -7,4 +7,4 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference \
-Link to app: https://huggingface.co/spaces/amfrazier01/simply-chatbot
+Link to my app: https://huggingface.co/spaces/amfrazier01/simple-chatbot
