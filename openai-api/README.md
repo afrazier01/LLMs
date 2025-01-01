@@ -4,5 +4,4 @@
 
 Practice making API calls to OpenAI programmatically.
 
-## 
-[Here](./OpenAI.ipynb)
+## Click [here](./OpenAI.ipynb) to view my notebook
