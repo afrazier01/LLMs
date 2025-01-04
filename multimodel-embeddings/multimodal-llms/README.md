@@ -1,7 +1,7 @@
 # Multimodal LLMs
 
 ## Description
-I will create a movie recommender by prompt engineering and implementing an OpenAI LLM with Langchain 
+My notebook explores the development of multimodel AI systems built on top of LLMs
 
 Click [here](./multimodal-llms.ipynb) to view my notebook
 
