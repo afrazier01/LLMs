@@ -1,7 +1,7 @@
 # Multimodal LLMs
 
 ## Description
-My notebook explores the development of multimodel AI systems built on top of LLMs
+My notebook explores the development of multimodel AI systems built on top of LLMs.
 
 Click [here](./multimodal-llms.ipynb) to view my notebook
 
