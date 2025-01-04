@@ -1,4 +1,4 @@
-**Whalemen's Shipping Paper**
+# **Whalemen's Shipping Paper**
 
 The image presents a vintage shipping paper, specifically designed for Whalemen's use. The document is divided into sections with clear headings and concise language.
 
