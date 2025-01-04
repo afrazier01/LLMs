@@ -3,3 +3,5 @@ This will serve as my introduction to multimodel LLMs, embedding, and ultimately
 
 ## Multimodal LLMs
 Click [here](./multimodal-llms/multimodal-llms.ipynb) to view the introduction to Multimodal LLMs notebook.
+
+![image](https://github.com/user-attachments/assets/d64a8f84-c073-4af7-9088-1fe81023505b)
