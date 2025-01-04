@@ -1,1 +1,0 @@
-my_sk = "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" #secret key
