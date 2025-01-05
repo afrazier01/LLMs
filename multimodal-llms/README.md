@@ -7,3 +7,10 @@ This notebook explores the development of multimodel AI systems built on top of 
 Click [here](./multimodal-llms/multimodal-llms.ipynb) to view my first notebook.
 
 ![image](https://github.com/user-attachments/assets/d64a8f84-c073-4af7-9088-1fe81023505b)
+
+## Multimodal Embedding
+This notebook explores multimodal embeddings, performing 0-shot image classification and search.
+
+Click [here](./multimodal-embedding/multimodal-embeddings.ipynb) to view my notebook
+
+![image](https://github.com/user-attachments/assets/6ae38eaa-6111-4694-aad9-f6271289afdc)
